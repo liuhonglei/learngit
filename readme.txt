@@ -1,5 +1,5 @@
-Git test
-Git branch
+Git free test
+Git  branch
 Creating a new branch is quick && and simple.
 branch strategy
 
